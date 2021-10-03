@@ -1,0 +1,11 @@
+.use-input {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: aliceblue;
+    border: none;
+    border-radius: 40px;
+    max-width: 1000px;
+    height: 500px;
+}
